@@ -23,7 +23,6 @@ service:
 
 KIND_CLUSTER := a-cluster
 
-# Upgrade to latest Kind (>=v0.11): e.g. brew upgrade kind
 # For full Kind v0.12 release notes: https://github.com/kubernetes-sigs/kind/releases/tag/v0.12.0
 # The image used below was copied by the above link and supports both amd64 and arm64.
 
